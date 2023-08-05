@@ -7,7 +7,7 @@ import 'modern-normalize';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/react-hw-05-movies">
+    <BrowserRouter basename="/goit-react-hw-05-movies">
       <GlobalStyle />
       <App />
     </BrowserRouter>
